@@ -1,0 +1,6 @@
+{
+        "name": "SES-relay",
+        "dependencies": {
+                "mailparser": "^3.0.1"
+        }
+}
